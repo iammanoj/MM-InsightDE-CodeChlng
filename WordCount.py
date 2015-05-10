@@ -1,6 +1,3 @@
-# Change this to a variable input so that this will run on any machine
-
-#!/Users/manoj_mohan/anaconda/bin/python
 ############################################
 #	Program Name	:	Word Count
 #	Description	:	This program scans thru a given directory for files and then computes word counts from all files in the input directory and then prints total word counts alphabetically along with the word.
