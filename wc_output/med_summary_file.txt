@@ -1,0 +1,10 @@
+dsaaaa saaaaaa saaaaaaaa saaaaaa saaa saaaaaaaa saaaaa saaaaa saaaa saaaaaa saaaa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa as sa as sa as as as sa as sa sa sa as sa sa as sa sa sa sa sa sa sa sa sa s asa s sa sa sa  sa  sa sa as sasa sa sa sa as sa sa as as as sa s
+text1
+txt2
+This is a really long line for testing the median word count per line that we have introduced per the new program being writtern and also for validatin gwhat is possible and what is not possible.
+sat car rode to LA
+Came back and went to Vegas
+Life is Good!
+
+Why is work so enojoyable?
+Why does the fascination to any new thing die off over time?
